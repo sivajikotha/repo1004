@@ -1,0 +1,5 @@
+winrm
+alg
+fakeservice
+netlogon
+bits
